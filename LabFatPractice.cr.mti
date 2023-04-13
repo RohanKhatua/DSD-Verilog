@@ -1,0 +1,79 @@
+{C:/Users/khatu/OneDrive - vit.ac.in/Academics/Semester - 4/Digital Systems and Design/lab-fat-modelsim/decade_counter.v} {1 {vlog -work work {C:/Users/khatu/OneDrive - vit.ac.in/Academics/Semester - 4/Digital Systems and Design/lab-fat-modelsim/decade_counter.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module decade_counter
+-- Compiling module test_decade_counter
+
+Top level modules:
+	test_decade_counter
+
+} {} {}} {C:/Users/khatu/OneDrive - vit.ac.in/Academics/Semester - 4/Digital Systems and Design/lab-fat-modelsim/jkff.v} {1 {vlog -work work {C:/Users/khatu/OneDrive - vit.ac.in/Academics/Semester - 4/Digital Systems and Design/lab-fat-modelsim/jkff.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module jkff
+-- Compiling module test_jkff
+
+Top level modules:
+	test_jkff
+
+} {} {}} {C:/Users/khatu/OneDrive - vit.ac.in/Academics/Semester - 4/Digital Systems and Design/lab-fat-modelsim/siso.v} {1 {vlog -work work {C:/Users/khatu/OneDrive - vit.ac.in/Academics/Semester - 4/Digital Systems and Design/lab-fat-modelsim/siso.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module siso
+-- Compiling module test_siso
+
+Top level modules:
+	test_siso
+
+} {} {}} {C:/Users/khatu/OneDrive - vit.ac.in/Academics/Semester - 4/Digital Systems and Design/lab-fat-modelsim/johnson_counter.v} {1 {vlog -work work {C:/Users/khatu/OneDrive - vit.ac.in/Academics/Semester - 4/Digital Systems and Design/lab-fat-modelsim/johnson_counter.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module johnson_counter
+-- Compiling module test_johnson_counter
+
+Top level modules:
+	johnson_counter
+	test_johnson_counter
+
+} {} {}} {C:/Users/khatu/OneDrive - vit.ac.in/Academics/Semester - 4/Digital Systems and Design/lab-fat-modelsim/four_bit_add_sub.v} {1 {vlog -work work {C:/Users/khatu/OneDrive - vit.ac.in/Academics/Semester - 4/Digital Systems and Design/lab-fat-modelsim/four_bit_add_sub.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module full_adder
+-- Compiling module four_bit_add_sub
+-- Compiling module test_add_sub
+
+Top level modules:
+	test_add_sub
+
+} {} {}} {C:/Users/khatu/OneDrive - vit.ac.in/Academics/Semester - 4/Digital Systems and Design/lab-fat-modelsim/piso.v} {2 {vlog -work work {C:/Users/khatu/OneDrive - vit.ac.in/Academics/Semester - 4/Digital Systems and Design/lab-fat-modelsim/piso.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module piso
+** Warning: C:/Users/khatu/OneDrive - vit.ac.in/Academics/Semester - 4/Digital Systems and Design/lab-fat-modelsim/piso.v(10): (vlog-2576) [BSOB] - Bit-select into 'q' is out of bounds.
+
+** Warning: C:/Users/khatu/OneDrive - vit.ac.in/Academics/Semester - 4/Digital Systems and Design/lab-fat-modelsim/piso.v(11): (vlog-2576) [BSOB] - Bit-select into 'q' is out of bounds.
+
+-- Compiling module piso_test
+
+Top level modules:
+	piso_test
+
+} {} {}} {C:/Users/khatu/OneDrive - vit.ac.in/Academics/Semester - 4/Digital Systems and Design/lab-fat-modelsim/sipo.v} {1 {vlog -work work {C:/Users/khatu/OneDrive - vit.ac.in/Academics/Semester - 4/Digital Systems and Design/lab-fat-modelsim/sipo.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module sipo
+-- Compiling module test_sipo
+
+Top level modules:
+	test_sipo
+
+} {} {}} {C:/Users/khatu/OneDrive - vit.ac.in/Academics/Semester - 4/Digital Systems and Design/lab-fat-modelsim/ring_counter.v} {1 {vlog -work work {C:/Users/khatu/OneDrive - vit.ac.in/Academics/Semester - 4/Digital Systems and Design/lab-fat-modelsim/ring_counter.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module ring_counter
+-- Compiling module test_ring_counter
+
+Top level modules:
+	test_ring_counter
+
+} {} {}} {C:/Users/khatu/OneDrive - vit.ac.in/Academics/Semester - 4/Digital Systems and Design/lab-fat-modelsim/pipo.v} {1 {vlog -work work {C:/Users/khatu/OneDrive - vit.ac.in/Academics/Semester - 4/Digital Systems and Design/lab-fat-modelsim/pipo.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module pipo
+-- Compiling module test_pipo
+
+Top level modules:
+	test_pipo
+
+} {} {}}

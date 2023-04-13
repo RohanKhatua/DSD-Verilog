@@ -1,0 +1,33 @@
+module decade_counter(clk, rst, count);
+  input clk;
+  input rst;
+  output reg [3:0] count;
+  
+  always @(posedge clk) begin
+    if (rst)
+      count <= 4'b0000;
+    else begin
+      if (count[0] == 1 && count[1] == 0 &&count[2] == 0 && count[3]==1)
+        count<=4'b0000;
+      else
+        count = count + 1'b1;      
+    end
+  end
+endmodule
+
+module test_decade_counter;
+  reg clk;
+  reg rst;
+  wire [3:0] count;
+  
+  decade_counter uut(clk, rst, count);
+  
+  always #5 clk = ~clk;
+  
+  initial begin 
+    clk=0;rst=0;#10;
+    rst=1;#10;
+    rst=0;#200;
+    $stop;
+  end
+endmodule

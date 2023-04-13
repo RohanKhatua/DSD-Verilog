@@ -1,0 +1,424 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\altera\13.0sp1
+vdecade_counter
+Z1 !s100 WNa^C8_lFaUW[?Y;2oMBR3
+Z2 I73Df4?k[;W]AJbYOC9Ide1
+Z3 Vh1Di3M[BRcdS<L>?8FU8?1
+Z4 dC:\Users\khatu\OneDrive - vit.ac.in\Academics\Semester - 4\Digital Systems and Design\lab-fat-modelsim
+Z5 w1681362007
+Z6 8C:/Users/khatu/OneDrive - vit.ac.in/Academics/Semester - 4/Digital Systems and Design/lab-fat-modelsim/decade_counter.v
+Z7 FC:/Users/khatu/OneDrive - vit.ac.in/Academics/Semester - 4/Digital Systems and Design/lab-fat-modelsim/decade_counter.v
+L0 1
+Z8 OV;L;10.1d;51
+r1
+31
+Z9 !s108 1681366571.756000
+Z10 !s107 C:/Users/khatu/OneDrive - vit.ac.in/Academics/Semester - 4/Digital Systems and Design/lab-fat-modelsim/decade_counter.v|
+Z11 !s90 -reportprogress|300|-work|work|C:/Users/khatu/OneDrive - vit.ac.in/Academics/Semester - 4/Digital Systems and Design/lab-fat-modelsim/decade_counter.v|
+Z12 o-work work -O0
+!i10b 1
+!s85 0
+!s101 -O0
+vfour_bit_add_sub
+Z13 !s100 `O^H>KeW;KmlN4@FiNLWo2
+Z14 IDQAaBOSLH;1@QPHhG8A;L2
+Z15 VTb?TkSk`UhW>4AHIZN73C1
+R4
+Z16 w1681367627
+Z17 8C:/Users/khatu/OneDrive - vit.ac.in/Academics/Semester - 4/Digital Systems and Design/lab-fat-modelsim/four_bit_add_sub.v
+Z18 FC:/Users/khatu/OneDrive - vit.ac.in/Academics/Semester - 4/Digital Systems and Design/lab-fat-modelsim/four_bit_add_sub.v
+L0 10
+R8
+r1
+31
+Z19 !s108 1681367647.098000
+Z20 !s107 C:/Users/khatu/OneDrive - vit.ac.in/Academics/Semester - 4/Digital Systems and Design/lab-fat-modelsim/four_bit_add_sub.v|
+Z21 !s90 -reportprogress|300|-work|work|C:/Users/khatu/OneDrive - vit.ac.in/Academics/Semester - 4/Digital Systems and Design/lab-fat-modelsim/four_bit_add_sub.v|
+R12
+!i10b 1
+!s85 0
+!s101 -O0
+vfull_adder
+Z22 !s100 a2YH?i]:zmXLa;M^iK2B;2
+Z23 I[;:E]F`e1aLW9YKn1m]^e0
+Z24 VDXIz@A8ZlZIe0^?_MInkU1
+R4
+R16
+R17
+R18
+L0 1
+R8
+r1
+31
+R19
+R20
+R21
+R12
+!i10b 1
+!s85 0
+!s101 -O0
+vJKFF
+Z25 !s100 FJJaDM8fSCP62Bg`e_RPJ1
+Z26 I9bT99Om00Gg=:WaNLGN:J2
+Z27 VzF;O;1DfHl_n`BPNHaERX0
+R4
+Z28 w1681361135
+R6
+R7
+L0 1
+R8
+r1
+31
+R11
+R12
+Z29 n@j@k@f@f
+Z30 !s108 1681361138.507000
+R10
+!i10b 1
+!s85 0
+!s101 -O0
+vjkff
+Z31 !s100 P=Z^RWENC2TaiX^L<M_fk2
+Z32 IZ4lh]nRE2G@C^3SBYjV^O1
+Z33 VO=@@0FDOcRZM7Z4Be^a=X3
+R4
+Z34 w1681365204
+Z35 8C:/Users/khatu/OneDrive - vit.ac.in/Academics/Semester - 4/Digital Systems and Design/lab-fat-modelsim/jkff.v
+Z36 FC:/Users/khatu/OneDrive - vit.ac.in/Academics/Semester - 4/Digital Systems and Design/lab-fat-modelsim/jkff.v
+L0 1
+R8
+r1
+31
+Z37 !s108 1681366572.131000
+Z38 !s107 C:/Users/khatu/OneDrive - vit.ac.in/Academics/Semester - 4/Digital Systems and Design/lab-fat-modelsim/jkff.v|
+Z39 !s90 -reportprogress|300|-work|work|C:/Users/khatu/OneDrive - vit.ac.in/Academics/Semester - 4/Digital Systems and Design/lab-fat-modelsim/jkff.v|
+R12
+!i10b 1
+!s85 0
+!s101 -O0
+vjohnson_counter
+Z40 !s100 Z>L0C2Lk3dDI4k;eoHfN43
+Z41 IC14S1i;di0hPK`b_J]1j[2
+Z42 VdCliJh9m0@=@DX3OPTj1F3
+R4
+Z43 w1681364743
+Z44 8C:/Users/khatu/OneDrive - vit.ac.in/Academics/Semester - 4/Digital Systems and Design/lab-fat-modelsim/johnson_counter.v
+Z45 FC:/Users/khatu/OneDrive - vit.ac.in/Academics/Semester - 4/Digital Systems and Design/lab-fat-modelsim/johnson_counter.v
+L0 1
+R8
+r1
+31
+Z46 !s108 1681366572.016000
+Z47 !s107 C:/Users/khatu/OneDrive - vit.ac.in/Academics/Semester - 4/Digital Systems and Design/lab-fat-modelsim/johnson_counter.v|
+Z48 !s90 -reportprogress|300|-work|work|C:/Users/khatu/OneDrive - vit.ac.in/Academics/Semester - 4/Digital Systems and Design/lab-fat-modelsim/johnson_counter.v|
+R12
+!i10b 1
+!s85 0
+!s101 -O0
+vmealy_fsm
+!i10b 1
+!s100 1F:KFWN8`7`AZ=Cnf=:gN2
+ILSLC7TojhF1=Y<eQ[zZ5A1
+Z49 V9eEGPM8Ik7d9BR?QEz6eK1
+R4
+Z50 w1681369420
+Z51 8C:/Users/khatu/OneDrive - vit.ac.in/Academics/Semester - 4/Digital Systems and Design/lab-fat-modelsim/sequence_detector_mealy.v
+Z52 FC:/Users/khatu/OneDrive - vit.ac.in/Academics/Semester - 4/Digital Systems and Design/lab-fat-modelsim/sequence_detector_mealy.v
+L0 1
+R8
+r1
+!s85 0
+31
+Z53 !s108 1681369428.515000
+Z54 !s107 C:/Users/khatu/OneDrive - vit.ac.in/Academics/Semester - 4/Digital Systems and Design/lab-fat-modelsim/sequence_detector_mealy.v|
+Z55 !s90 -reportprogress|300|-work|work|C:/Users/khatu/OneDrive - vit.ac.in/Academics/Semester - 4/Digital Systems and Design/lab-fat-modelsim/sequence_detector_mealy.v|
+!s101 -O0
+R12
+vpipo
+Z56 !s100 <ZdkON;c7XJQHPfjhM3N`2
+Z57 I87C:hdHl6N0L4RR;DB;>l2
+Z58 VOC`f]=;@SQ@8i6OXM>U>93
+R4
+Z59 w1681353505
+Z60 8C:/Users/khatu/OneDrive - vit.ac.in/Academics/Semester - 4/Digital Systems and Design/lab-fat-modelsim/pipo.v
+Z61 FC:/Users/khatu/OneDrive - vit.ac.in/Academics/Semester - 4/Digital Systems and Design/lab-fat-modelsim/pipo.v
+L0 1
+R8
+r1
+31
+Z62 !s108 1681366571.290000
+Z63 !s107 C:/Users/khatu/OneDrive - vit.ac.in/Academics/Semester - 4/Digital Systems and Design/lab-fat-modelsim/pipo.v|
+Z64 !s90 -reportprogress|300|-work|work|C:/Users/khatu/OneDrive - vit.ac.in/Academics/Semester - 4/Digital Systems and Design/lab-fat-modelsim/pipo.v|
+R12
+!i10b 1
+!s85 0
+!s101 -O0
+vpiso
+Z65 !s100 ;=I=<0:eOhFX8XnzKV2AO0
+Z66 I`fk@j4SL=?KihEA00<Po;0
+Z67 Vo<Kek29Y]gd8DUhK^k8:b0
+R4
+Z68 w1681357206
+Z69 8C:/Users/khatu/OneDrive - vit.ac.in/Academics/Semester - 4/Digital Systems and Design/lab-fat-modelsim/piso.v
+Z70 FC:/Users/khatu/OneDrive - vit.ac.in/Academics/Semester - 4/Digital Systems and Design/lab-fat-modelsim/piso.v
+L0 1
+R8
+r1
+31
+Z71 !s108 1681366571.405000
+Z72 !s107 C:/Users/khatu/OneDrive - vit.ac.in/Academics/Semester - 4/Digital Systems and Design/lab-fat-modelsim/piso.v|
+Z73 !s90 -reportprogress|300|-work|work|C:/Users/khatu/OneDrive - vit.ac.in/Academics/Semester - 4/Digital Systems and Design/lab-fat-modelsim/piso.v|
+R12
+!i10b 1
+!s85 0
+!s101 -O0
+vpiso_test
+Z74 !s100 P`ZTdfiX]z2ESYon4fdnR0
+Z75 IRZZzL9L9QjmJ_@DM1F1043
+Z76 Vo>XfAmQY1ZU7<`OdXRjS=3
+R4
+R68
+R69
+R70
+L0 19
+R8
+r1
+31
+R71
+R72
+R73
+R12
+!i10b 1
+!s85 0
+!s101 -O0
+vring_counter
+Z77 !s100 R9gG6Y5TmO9cWBX0gHU@F3
+Z78 I0>]3Bc8aZShj5]cO0EFID3
+Z79 VVHmGGC[`GR`8RCV0hH=`O3
+R4
+Z80 w1681364625
+Z81 8C:/Users/khatu/OneDrive - vit.ac.in/Academics/Semester - 4/Digital Systems and Design/lab-fat-modelsim/ring_counter.v
+Z82 FC:/Users/khatu/OneDrive - vit.ac.in/Academics/Semester - 4/Digital Systems and Design/lab-fat-modelsim/ring_counter.v
+L0 1
+R8
+r1
+31
+Z83 !s108 1681366571.877000
+Z84 !s107 C:/Users/khatu/OneDrive - vit.ac.in/Academics/Semester - 4/Digital Systems and Design/lab-fat-modelsim/ring_counter.v|
+Z85 !s90 -reportprogress|300|-work|work|C:/Users/khatu/OneDrive - vit.ac.in/Academics/Semester - 4/Digital Systems and Design/lab-fat-modelsim/ring_counter.v|
+R12
+!i10b 1
+!s85 0
+!s101 -O0
+vsipo
+Z86 !s100 T_anWRCdUVM1m87jWAZIk3
+Z87 IbaN3P6HP8?63k36f]C7hW1
+Z88 VAK2Yh4d?fW:LI3z8iHd5]2
+R4
+Z89 w1681357952
+Z90 8C:/Users/khatu/OneDrive - vit.ac.in/Academics/Semester - 4/Digital Systems and Design/lab-fat-modelsim/sipo.v
+Z91 FC:/Users/khatu/OneDrive - vit.ac.in/Academics/Semester - 4/Digital Systems and Design/lab-fat-modelsim/sipo.v
+L0 1
+R8
+r1
+31
+Z92 !s108 1681366571.521000
+Z93 !s107 C:/Users/khatu/OneDrive - vit.ac.in/Academics/Semester - 4/Digital Systems and Design/lab-fat-modelsim/sipo.v|
+Z94 !s90 -reportprogress|300|-work|work|C:/Users/khatu/OneDrive - vit.ac.in/Academics/Semester - 4/Digital Systems and Design/lab-fat-modelsim/sipo.v|
+R12
+!i10b 1
+!s85 0
+!s101 -O0
+vsiso
+Z95 !s100 o8USJRa>6X;3H2oUS@1K]1
+Z96 IAe6[1RUfVillKGMOBd`B^1
+Z97 V8;C_aa0TjZTT_`Dbi4?b13
+R4
+Z98 w1681358596
+Z99 8C:/Users/khatu/OneDrive - vit.ac.in/Academics/Semester - 4/Digital Systems and Design/lab-fat-modelsim/siso.v
+Z100 FC:/Users/khatu/OneDrive - vit.ac.in/Academics/Semester - 4/Digital Systems and Design/lab-fat-modelsim/siso.v
+L0 1
+R8
+r1
+31
+Z101 !s108 1681366571.630000
+Z102 !s107 C:/Users/khatu/OneDrive - vit.ac.in/Academics/Semester - 4/Digital Systems and Design/lab-fat-modelsim/siso.v|
+Z103 !s90 -reportprogress|300|-work|work|C:/Users/khatu/OneDrive - vit.ac.in/Academics/Semester - 4/Digital Systems and Design/lab-fat-modelsim/siso.v|
+R12
+!i10b 1
+!s85 0
+!s101 -O0
+vtest_add_sub
+Z104 I`YQJ6hDbiTz6I3lQ74lRF2
+Z105 V7@;daN]8aIP_ZcdhQhS0F2
+R4
+R16
+R17
+R18
+L0 33
+R8
+r1
+31
+R19
+R20
+R21
+R12
+Z106 !s100 gd3M>7?A7eHR0Nh`]Gm9^2
+!i10b 1
+!s85 0
+!s101 -O0
+vtest_decade_counter
+Z107 !s100 >_3VAHad<[zQQB[JfM@W11
+Z108 IGT[hZ]aYSQ?W<H;UC7OzH0
+Z109 VZL6bUT2:9X?fWa=oIzhf]0
+R4
+R5
+R6
+R7
+L0 18
+R8
+r1
+31
+R9
+R10
+R11
+R12
+!i10b 1
+!s85 0
+!s101 -O0
+vtest_jkff
+Z110 !s100 OTL=cBiIMng1cO3PJ<SW00
+Z111 In]Fn;9fmZZBRALBd]Tn=f3
+Z112 VCz]SOz0OJ>CJKJmD757BY3
+R4
+R34
+R35
+R36
+L0 24
+R8
+r1
+31
+R37
+R38
+R39
+R12
+!i10b 1
+!s85 0
+!s101 -O0
+vtest_johnson_counter
+Z113 !s100 Y^gc^FLUX5ZKYa]H6[K^42
+Z114 IJ2Gcm=T4FEbkBhX8hYbEe2
+Z115 V4CXPKONIPB9b:f6ZfoXI_1
+R4
+R43
+R44
+R45
+L0 18
+R8
+r1
+31
+R46
+R47
+R48
+R12
+!i10b 1
+!s85 0
+!s101 -O0
+vtest_mealy_fsm
+!i10b 1
+Z116 !s100 Z4^nYzQ7@7ChRA`=:6HVG2
+Z117 Ib7zCf>Bk>F=9B_MFnz0>n0
+Z118 Vg_NHj[9M38Qo_IjR;bNda3
+R4
+R50
+R51
+R52
+L0 51
+R8
+r1
+!s85 0
+31
+R53
+R54
+R55
+!s101 -O0
+R12
+vtest_pipo
+Z119 !s100 UkPh@anIH3=ojoHQABnH30
+Z120 I1`ELhEmRMdJ0XK>_O7Feg1
+Z121 V6OeAGiYhBCTY>6;ZVXjS91
+R4
+R59
+R60
+R61
+L0 25
+R8
+r1
+31
+R62
+R63
+R64
+R12
+!i10b 1
+!s85 0
+!s101 -O0
+vtest_ring_counter
+Z122 !s100 eeJLkIHVaVO9O7=3d[5z20
+Z123 I>:Xh8D0h<ka[UMiZZjQIO0
+Z124 Vk[i3C2UI@;=FiLnT58^L43
+R4
+R80
+R81
+R82
+L0 18
+R8
+r1
+31
+R83
+R84
+R85
+R12
+!i10b 1
+!s85 0
+!s101 -O0
+vtest_sipo
+Z125 !s100 ZIP<Ee2]@O12WVJ3lS<5b1
+Z126 IQb^lJFcM<58>il_bF<36<2
+Z127 V[AJUGlC;M:LZ13Y065ZEU1
+R4
+R89
+R90
+R91
+L0 21
+R8
+r1
+31
+R92
+R93
+R94
+R12
+!i10b 1
+!s85 0
+!s101 -O0
+vtest_siso
+Z128 !s100 MM@T6N^VDDmQFf>CI4F@X1
+Z129 ImY8XSHl5>O5YHBKRFMa5D3
+Z130 VXQdBPaS:]2Q]boH`D2oTC3
+R4
+R98
+R99
+R100
+L0 15
+R8
+r1
+31
+R101
+R102
+R103
+R12
+!i10b 1
+!s85 0
+!s101 -O0

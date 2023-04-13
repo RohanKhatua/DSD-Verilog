@@ -1,0 +1,50 @@
+module full_adder(a,b,cin,sum,cout);
+  input a,b,cin;
+  output sum, cout;
+  
+  assign sum = (a^b)^cin;
+  assign cout = (a&b) + (b&cin) + (a&cin);
+endmodule
+
+
+module four_bit_add_sub(k,a,b,sum,cout);
+  input k;
+  input [3:0] a;
+  input [3:0] b;
+  output [3:0] sum;
+  output cout;
+  
+  wire [3:0] gate_enter;
+  wire c0,c1,c2,c3;
+  
+  xor x1(gate_enter[0], k,b[0]);
+  xor x2(gate_enter[1], k,b[1]);
+  xor x3(gate_enter[2], k,b[2]);
+  xor x4(gate_enter[3], k,b[3]);
+  
+  full_adder f0 (a[0],gate_enter[0],k,sum[0],c0);
+  full_adder f1 (a[1],gate_enter[1],c0,sum[1],c1);
+  full_adder f2 (a[2],gate_enter[2],c1,sum[2],c2);
+  full_adder f3 (a[3],gate_enter[3],c2,sum[3],c3);
+  
+  assign cout = c3;  
+endmodule
+
+module test_add_sub;
+  reg k;
+  reg [3:0] a,b;
+  wire [3:0] sum;
+  wire cout;
+  
+  four_bit_add_sub uut (k,a,b,sum,cout);
+  
+  initial begin
+    k=1'b0;
+    a=4'b1101;
+    b=4'b1000;
+    #100;
+    $stop;
+  end
+endmodule
+  
+   
